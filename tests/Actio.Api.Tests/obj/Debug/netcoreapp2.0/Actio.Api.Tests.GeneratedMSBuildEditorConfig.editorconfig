@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Actio.Api.Tests
+build_property.ProjectDir = c:\Users\sharnal\source\repos\sampleapptraining\.NET-Core-Microservices\tests\Actio.Api.Tests\
